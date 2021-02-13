@@ -17,7 +17,7 @@ timezone: Europe/Berlin
 # --------------------------
 title: Personal blog                          # the main title
 
-tagline: Could be about anything, but mainly on physics   # it will display as the sub-title
+tagline: Could be about anything, but mainly on physics.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
    Could be about anything, but mainly on physics
@@ -25,7 +25,7 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://not-physicist.github.io'
 
-author: your_full_name                  # change to your full name
+author: not-physicist                  # change to your full name
 
 github:
   username: not-physicist             # change to your github username
@@ -34,7 +34,7 @@ github:
   # username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
+  name: not-physicist                  # it will shows as the copyright owner in Footer
   email: wch5015@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -79,7 +79,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-# avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /assets/img/favicons/me.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
