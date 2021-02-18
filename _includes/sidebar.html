@@ -36,6 +36,15 @@
         <span>{{ "HOME" }}</span>
       </a>
     </li>
+
+  <!--   [>Study tab <] -->
+	 <!-- <li class="nav-item{% if page.layout == 'study' %}{{ " active" }}{% endif %}"> -->
+	 <!--    <a href="/categories/study" class="nav-link"> -->
+	 <!--       <i class="fa-fw fas fa-archive ml-xl-3 mr-xl-3 unloaded"></i> -->
+	 <!--       <span>{{ "STUDY" }}</span> -->
+	 <!--    </a> -->
+	 <!-- </li> -->
+
     <!-- the real tabs -->
     {% for tab in site.tabs %}
     <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
