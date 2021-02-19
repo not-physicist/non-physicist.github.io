@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Superstring WS20/21
-author: Chenhuan Wang
-date: 2021-02-10 18:32:00 -0500
+title: Superstring WS2020/2021
+date: 2021-02-10 18:32:00
 category: [Study]
 tags: [string theory, theoretical physics, study material, Uni Bonn]
 ---
 
-You can find my homework solution and a brief summary of superstring theory WS2020/2021 at University Bonn taught by [Priv.-Doz. Dr. Stefan Förste](http://www.th.physik.uni-bonn.de/people/forste/forste/index.html). Exercise sheets can be found in [eCampus](https://ecampus.uni-bonn.de/bl.php?id=184559) (accessible as student at Uni Bonn). I cannot garuantee the correctness of all content, but I have tried my best to correct errors and typos. PDF files along with its LaTex source code can be found on [GitHub](https://github.com/not-physicist/Superstring).
+You can find my homework solution and a brief summary of superstring theory WS2020/2021 at University Bonn taught by [Priv.-Doz. Dr. Stefan Förste](http://www.th.physik.uni-bonn.de/people/forste/forste/index.html). Exercise sheets can be found in [eCampus](https://ecampus.uni-bonn.de/bl.php?id=184559) (accessible as student at Uni Bonn). 
 
-| sheet | assignment | topics |
+I cannot garuantee the correctness of all content, but I have tried my best to correct errors and typos. PDF files along with its LaTex source code can be found on [GitHub](https://github.com/not-physicist/Superstring).
+
+| sheet w/ link | assignment | topics |
 | ----- | ----- | ----- |
 | [01](https://raw.githubusercontent.com/not-physicist/Superstring/main/solution01/main.pdf) | h1 | Symmetries of the Polyakov action |
 | [01](https://raw.githubusercontent.com/not-physicist/Superstring/main/solution01/main.pdf) | h2 | Two-dimensional gravity |
