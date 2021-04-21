@@ -4,7 +4,8 @@
 
 @mixin dark-scheme {
   /* framework */
-  --main-wrapper-bg: rgb(27, 27, 30);
+  // --main-wrapper-bg: rgb(27, 27, 30);
+  --main-wrapper-bg: rgb(37, 37, 43);
   --body-bg: var(--main-wrapper-bg);
   --topbar-wrapper-bg: rgb(39, 40, 43);
   --search-wrapper-bg: rgb(34, 34, 39);
@@ -14,7 +15,8 @@
   --footer-bg-color: var(--main-wrapper-bg);
 
   /* common color */
-  --text-color: rgb(175, 176, 177);
+  // --text-color: rgb(175, 176, 177);
+  --text-color: rgb(193, 209, 217);
   --text-muted-color: rgb(107, 116, 124);
   --link-color: rgb(138, 180, 248);
   --link-underline-color: rgb(82, 108, 150);
@@ -39,7 +41,8 @@
   --topbar-text-color: var(--text-color);
 
   /* Home page */
-  --post-list-text-color: rgb(175, 176, 177);
+  // --post-list-text-color: rgb(175, 176, 177);
+  --post-list-text-color: var(--text-color);
   --btn-patinator-text-color: var(--text-color);
   --btn-paginator-hover-color: rgb(64, 65, 66);
   --btn-active-bg: rgba(28, 52, 94, 1);
